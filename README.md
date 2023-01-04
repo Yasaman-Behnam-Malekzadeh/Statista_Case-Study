@@ -4,7 +4,7 @@
 
 Welcome to our programming exercise for Senior Front-end Developers.
 
-Plase build a react application that allows users to search for statistics using our Statista API. The application should meet the following requirements:
+Please build a React application that allows users to search for statistics using our Statista API. The application should meet the following requirements:
 
 ---
 
