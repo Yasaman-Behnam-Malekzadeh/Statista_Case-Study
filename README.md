@@ -1,5 +1,28 @@
 # Exercise for Front-end Developers
 
+
+### Name:
+Yasaman Behnam Malekzadeh
+
+
+### Tools used:
+- React
+- React Query
+- Typescript
+- Tailwind
+- Playwright
+
+### Setup and Running the Tests
+- Install dependencies
+  npm install
+- Start the Project
+  npm start
+- Run Playwright Tests
+  npx playwright test
+
+
+
+
 ## Statista React Search
 
 Welcome to our programming exercise for Senior Front-end Developers.
@@ -30,3 +53,4 @@ Please build a React application that allows users to search for statistics usin
 - You can use statista.com as a design reference. The linked stylesheets give you the opportunity to use the same utility classes as used on statista.com.
 - API documentation:
   - https://de.statista.com/api/v2/doc
+
